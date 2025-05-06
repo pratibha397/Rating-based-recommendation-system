@@ -6,8 +6,6 @@ to identify top reliable reviewers and generate better product insights.
     ii.Design a composite reliability score from multiple review signals.
   iii.Use matrix factorization (SVD) to recommend top reviewers.
    iv.Evaluate using loss function, mean squared error (MSE), and hit ratio.
-
-
 3. Key Libraries
 pandas – data handling
 numpy – numerical operations
@@ -18,7 +16,6 @@ sklearn.metrics – MSE and evaluation
    i.Loss Function: Measures reconstruction loss from SVD.
   ii.MSE (Mean Squared Error): Difference between real and predicted scores.
  iii.Hit Ratio: How accurately the model predicts helpful reviews above a threshold.
-
 5.Future Scope
   i. Integration into Real-Time Recommendation Engines:
        The methodology can be embedded into live e-commerce platforms for dynamic reliability-based product ranking. 
