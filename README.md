@@ -16,6 +16,7 @@ sklearn.metrics – MSE and evaluation
    i.Loss Function: Measures reconstruction loss from SVD.
   ii.MSE (Mean Squared Error): Difference between real and predicted scores.
  iii.Hit Ratio: How accurately the model predicts helpful reviews above a threshold.
+
 5.Future Scope
   i. Integration into Real-Time Recommendation Engines:
        The methodology can be embedded into live e-commerce platforms for dynamic reliability-based product ranking. 
